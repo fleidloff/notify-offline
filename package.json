@@ -1,0 +1,23 @@
+{
+  "name": "notify-offline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleidloff/notify-offline.git"
+  },
+  "author": "Frederik Heins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fleidloff/notify-offline/issues"
+  },
+  "homepage": "https://github.com/fleidloff/notify-offline#readme",
+  "dependencies": {
+    "is-online": "^9.0.1",
+    "node-notifier": "^10.0.0"
+  }
+}
